@@ -1,4 +1,5 @@
 # Liquid-Level-Analysis
+This is not the original project as there are patents that can not be shown in the report. However, this is a solo project that aims to solve the same problem with a different approach and different code.
 
 This program was created to experiment with the machine learning capabilities of assessing liquid levels. The program uses a sequential machine learning model via keras and tensorflow. It utilizes an open source computer vision and machine learning software called OpenCV coupled with a Raspberry Pi 4 Model B and Raspberry Pi camera module to access and analyze video. 
 
